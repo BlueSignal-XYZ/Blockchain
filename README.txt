@@ -1,3 +1,5 @@
+---
+
 # Bluesignal Blockchain Contracts
 
 This repository contains the Solidity smart contracts, deployment scripts, and tests used for Bluesignal’s on-chain components, including token logic, credit accounting, registries, and future protocol modules.
@@ -147,3 +149,5 @@ As Bluesignal adds real protocol logic, consider migrating to:
 ## Support
 
 [hi@bluesignal.xyz](mailto:hi@bluesignal.xyz)
+
+---
